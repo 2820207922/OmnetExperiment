@@ -1,0 +1,10 @@
+.settings
+.venv
+.vscode
+out/*
+simulations/VN/results/*
+*.sca
+*.vci
+*.vec
+*.zip
+*.so

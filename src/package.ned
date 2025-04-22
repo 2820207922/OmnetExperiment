@@ -1,0 +1,3 @@
+package OmnetExperiment;
+
+@license(LGPL);
